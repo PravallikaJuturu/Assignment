@@ -4,6 +4,6 @@ print('enter second string')
 b=input()
 print('enter third string')
 c=input()
-print( a+' '+b+' '+c)
+print(f' {a} {b} {c}')
 
 
