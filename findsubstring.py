@@ -1,0 +1,5 @@
+print('Enter string')
+a=input()
+print('Enter substring')
+b=input()
+print(a.count(b))

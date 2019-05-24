@@ -1,3 +1,3 @@
 print('Enter string')
 a=input()
-print(a.count('The'))
+print(f'{a.count("The")+a.count("the")}')
